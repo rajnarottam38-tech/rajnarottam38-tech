@@ -1,10 +1,16 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Undergraduate+%7C+Tech+Enthusiast;Python+•+Data+Analytics+•+Web+Dev;Power+BI+•+SQL+•+JavaScript;Seeking+Internship+Opportunities+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:6366f1&height=200&section=header&text=Narottam%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Undergraduate%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Web%20Dev&descAlignY=55&descSize=18&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Undergraduate+%7C+Tech+Enthusiast;Python+•+Data+Analytics+•+Web+Dev;Power+BI+•+SQL+•+JavaScript;Seeking+Internship+Opportunities+🚀" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajnarottam38-tech&color=6366f1&style=for-the-badge)
+<img src="https://github.com/rajnarottam38-tech/rajnarottam38-tech/raw/main/profile.jpg" width="130" alt="Narottam Kumar"/>
+
+<br/><br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=rajnarottam38-tech&label=Profile%20Views&color=6&icon=0&pretty=true)
 
 </div>
 
@@ -16,7 +22,7 @@
 - 📊 Focused on Data Analytics, Web Development & AI
 - 🔭 Currently building data-driven and AI-powered projects
 - 🌱 Learning Machine Learning & Backend Systems
-- 💼 Actively seeking internship opportunities
+- �� Actively seeking internship opportunities
 - 📍 Jaipur, India
 - ⚡ I turn real-world problems into data-driven solutions
 
@@ -67,15 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajnarottam38-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117&title_color=6366f1&icon_color=6366f1" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rajnarottam38-tech&theme=tokyonight&hide_border=true&background=0f1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarottam38-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1117&title_color=6366f1" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rajnarottam38-tech&theme=tokyonight&hide_border=true&background=0f1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" width="60%" />
 
 </div>
 
@@ -88,8 +86,4 @@
 
 ---
 
-<div align="center">
-
-⭐ If you like my work, consider starring my repos!
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0d0d0d,100:000000&height=100&section=footer" />
