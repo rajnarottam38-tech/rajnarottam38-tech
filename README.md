@@ -6,11 +6,11 @@
 
 <br/>
 
-<img src="https://github.com/rajnarottam38-tech/rajnarottam38-tech/raw/main/profile.jpg" width="130" alt="Narottam Kumar"/>
+<img src="./profile.jpg" width="130" style="border-radius:50%" alt="Narottam Kumar"/>
 
 <br/><br/>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rajnarottam38-tech&label=Profile%20Views&color=6&icon=0&pretty=true)
+<img src="https://komarev.com/ghpvc/?username=rajnarottam38-tech&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views" />
 
 </div>
 
