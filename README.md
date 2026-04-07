@@ -29,7 +29,7 @@
 - 🌐 HTML • CSS • JavaScript • FastAPI
 - 🤖 Exploring AI/ML & real-world applications
 - 🚀 Built AI onboarding system, trading bot & decision engine
-- 📍 Jaipur, India
+- 📍 Jaipur, rajsthan
 - 💼 Open to Internship Opportunities
 
 ---
