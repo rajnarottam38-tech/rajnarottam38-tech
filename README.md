@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:6366f1&height=200&section=header&text=Narottam%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Undergraduate%20%7C%20Python%20%7C%20Data%20Analytics%20%7C%20Web%20Dev&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:6366f1&height=200&section=header&text=Narottam%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Python%20%7C%20Data%20Analytics%20%7C%20Web%20Development%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Python+%7C+Data+Analytics+%7C+Web+Dev;Pandas+•+NumPy+•+SQL+•+Power+BI;FastAPI+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+AI+%26+Data-Driven+Projects+🚀;Seeking+Internship+Opportunities+📍+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Python+•+Data+Analytics+•+Web+Development;HTML+•+CSS+•+JavaScript;Power+BI+•+SQL+•+Tech+Enthusiast;Building+AI+%26+Data-Driven+Projects+🚀;Seeking+Internship+Opportunities+📍+India" alt="Typing SVG" />
 
 <br/>
 
