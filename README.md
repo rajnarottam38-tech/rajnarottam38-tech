@@ -82,12 +82,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajnarottam38-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1117&title_color=6366f1&icon_color=6366f1" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rajnarottam38-tech&theme=tokyonight&hide_border=true&background=0f1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rajnarottam38-tech&theme=tokyonight&hide_border=true&background=0f1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" width="55%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnarottam38-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1117&title_color=6366f1" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnarottam38-tech&theme=tokyonight" width="70%" />
 
 </div>
 
