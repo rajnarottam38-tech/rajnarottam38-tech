@@ -3,7 +3,7 @@
 <!-- 🔥 HERO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:6366f1&height=220&section=header&text=Narottam%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Python%20%7C%20Data%20Analytics%20%7C%20Web%20Development&descAlignY=55&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Python+•+Data+Analytics+•+AI;Building+Data-Driven+Projects+🚀;Seeking+Internship+Opportunities+📍+India" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Python+•+Data+Analytics+•+AI;Building+Data-Driven+Projects+🚀;Seeking+Internship+Opportunities" />
 
 <h3>⚡ Turning Data into Insights | 🤖 Building AI Solutions | 🚀 Future Data Scientist</h3>
 
