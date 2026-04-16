@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="./profile.jpg" width="130" style="border-radius:50%" alt="Narottam Kumar"/>
+<img src="./profile.jpg" width="180" style="border-radius:50%" alt="Narottam Kumar"/>
 
 
 </div>
