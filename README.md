@@ -28,9 +28,9 @@
 - 📊 Pandas • NumPy • SQL • Power BI
 - 🌐 HTML • CSS • JavaScript • FastAPI
 - 🤖 Exploring AI/ML & real-world applications
-- 🚀 Built AI onboarding system, trading bot & decision engine
-- 📍 Jaipur, rajsthan
-- 💼 Open to Internship Opportunities
+- 🚀 Built AI Resume Skill Gap Analyzer , Binance Trading Bot & Digital Decision Engine
+- 📍 Jaipur, Rajasthan
+- 💼 Open to Internship Opportunities & Full Time role
 
 ---
 
@@ -38,7 +38,7 @@
 
 - Machine Learning
 - Advanced Data Analytics
-- Backend APIs (FastAPI)
+- Data Strcture and Algorithms
 
 ---
 
@@ -55,10 +55,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | ⚡ [Digital Decision Engine](https://github.com/rajnarottam38-tech/digital-decision-engine) | AI decision scoring system | JS · Python · FastAPI |
-| 🤖 [AI Adaptive Onboarding Engine](https://github.com/rajnarottam38-tech/Ai_Adaptive_Onboarding_Engine) | Smart onboarding system | Python |
+| 🤖 [AI Resume Skill Gap Analyzer](https://github.com/rajnarottam38-tech/Ai_Adaptive_Onboarding_Engine) | Smart onboarding system | Python |
 | 📈 [Binance Bot](https://github.com/rajnarottam38-tech/binance_bot) | Automated trading bot | Python |
 | 🎉 [Event Management GUI](https://github.com/rajnarottam38-tech/Event-Management-GUI) | Desktop GUI app | Python |
-| 🌱 [My First Project](https://github.com/rajnarottam38-tech/my-first-project) | Beginner web project | HTML · CSS |
+| 🌱 [Snake & Ladder Game](https://github.com/rajnarottam38-tech/my-first-project) | Beginner web project | HTML · CSS |
 
 ---
 
