@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Narottam+Kumar!;Python+•+Data+Analytics+•+AI;Building+Data-Driven+Projects+🚀;Seeking+Internship+Opportunities" />
 
-<h3>⚡ Turning Data into Insights | 🤖 Building AI Solutions | 🚀 Future Data Scientist</h3>
+<h3>⚡ Turning Data into Insights | 🤖 Building AI Solutions </h3>
 
 <br/>
 
