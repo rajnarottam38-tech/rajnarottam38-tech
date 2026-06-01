@@ -11,9 +11,6 @@
 
 <img src="./profile.jpg" width="130" style="border-radius:50%" alt="Narottam Kumar"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rajnarottam38-tech&label=Profile+Views&color=6366f1&style=flat" />
 
 </div>
 
@@ -38,7 +35,7 @@
 
 - Machine Learning
 - Advanced Data Analytics
-- Data Strcture and Algorithms
+- Data Structure and Algorithms
 
 ---
 
