@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://github.com/rajnarottam38-tech.png" width="200" style="border-radius:50%" alt="Narottam Kumar"/>
+<img src="https://raw.githubusercontent.com/rajnarottam38-tech/rajnarottam38-tech/main/profile.jpg" width="200" style="border-radius:50%" alt="Narottam Kumar"/>
 
 
 </div>
